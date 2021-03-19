@@ -96,6 +96,4 @@
     main section article:nth-child(1):hover
 .sign{transform: rotateY(0deg);}
 main section article:nth-child(12){display: none;}
-}git remote add origin https://github.com/leechaeyoon/art_closer.git
-git branch -M main
-git push -u origin main
+}
